@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="Workspace" id="{ff531ecc-bd32-47cd-90dd-bd3f63782173}">
+        <property name="builtBanksOutputDirectory">
+            <value>../../../../../Desktop/Unity/WRDMKR/newFmodData</value>
+        </property>
+        <relationship name="masterEventFolder">
+            <destination>{fe29a7e7-5b81-4853-958b-50ffdc05c755}</destination>
+        </relationship>
+        <relationship name="masterTagFolder">
+            <destination>{33678690-1dfd-4884-b51b-5bff27f593f8}</destination>
+        </relationship>
+        <relationship name="masterEffectPresetFolder">
+            <destination>{17dda9f7-88f1-4048-aa1f-78e09a46dc32}</destination>
+        </relationship>
+        <relationship name="masterParameterPresetFolder">
+            <destination>{f4a0c09b-2205-4714-b4a0-2ca296a556e1}</destination>
+        </relationship>
+        <relationship name="masterBankFolder">
+            <destination>{91da5dcf-a9ae-4ff4-9300-8c09c42efca9}</destination>
+        </relationship>
+        <relationship name="masterAssetFolder">
+            <destination>{f0a83d00-5622-43d0-b8f5-bf4f7800891a}</destination>
+        </relationship>
+        <relationship name="mixer">
+            <destination>{ec2a00ff-e98f-4e3c-bccf-18b1a3fdba10}</destination>
+        </relationship>
+        <relationship name="platforms">
+            <destination>{8105c716-b338-4bf5-bbbf-7510bfd840ab}</destination>
+            <destination>{ce84ff5f-c02d-49f6-a306-5ae9d64fff00}</destination>
+        </relationship>
+    </object>
+</objects>

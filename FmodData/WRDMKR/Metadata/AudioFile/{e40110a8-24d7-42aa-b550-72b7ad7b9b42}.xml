@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e40110a8-24d7-42aa-b550-72b7ad7b9b42}">
+		<property name="assetPath">
+			<value>backspace.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.31249433106575963</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{277dd210-b73d-48d1-b20a-0c76e3441950}</destination>
+		</relationship>
+	</object>
+</objects>

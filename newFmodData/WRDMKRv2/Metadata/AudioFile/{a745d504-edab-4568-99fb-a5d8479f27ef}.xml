@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{a745d504-edab-4568-99fb-a5d8479f27ef}">
+        <property name="assetPath">
+            <value>clearAll.flac</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.42616780045351477</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f0a83d00-5622-43d0-b8f5-bf4f7800891a}</destination>
+        </relationship>
+    </object>
+</objects>
